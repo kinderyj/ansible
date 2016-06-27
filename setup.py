@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-#kinderyj
-#011
 import os
 import sys
 
